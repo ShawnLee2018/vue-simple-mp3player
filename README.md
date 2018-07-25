@@ -1,4 +1,5 @@
 # mp3-player
+vue-simple-mp3player
 
 ## Project setup
 ```
@@ -19,3 +20,4 @@ yarn run build
 ```
 yarn run lint
 ```
+![img](https://github.com/ShawnLee2018/vue-simple-mp3player/blob/master/demo.jpg?raw=true)
