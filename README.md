@@ -1,2 +1,21 @@
-# vue-elementui-mp3player
-a simple audio player with elementui.created by vue-cli 3.0
+# mp3-player
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
